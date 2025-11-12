@@ -29,16 +29,25 @@ Responsive personal portfolio to showcase my projects and contact info.
 🤖 **AI Academic Assistant** *(coming soon)*  
 An intelligent web assistant for academic writing and research tasks.
 
+<div align="center">
+
 ### 📊 GitHub Stats
-![Ephantus' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ephantus2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ephantus2&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Ephantus2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="Ephantus' GitHub stats" />
 
 ---
-### 🌀 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Ephantus2&theme=tokyonight-duo&hide_border=true&border_radius=15)
 
+### 🔤 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephantus2&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" />
+
+---
+
+### 🌀 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=Ephantus2&theme=tokyonight-duo&hide_border=true&border_radius=15" alt="GitHub Streak" />
+
+</div>
 
 ### 🌐 Connect With Me
 <div align="center">
