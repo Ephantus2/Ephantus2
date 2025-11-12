@@ -30,7 +30,6 @@ Responsive personal portfolio to showcase my projects and contact info.
 An intelligent web assistant for academic writing and research tasks.
 
 ### 📊 GitHub Stats
-<div align="center">
 ![Ephantus' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ephantus2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ephantus2&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
