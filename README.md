@@ -31,14 +31,14 @@ An intelligent web assistant for academic writing and research tasks.
 
 ### 📊 GitHub Stats
 <div align="center">
-![Ephantus' GitHub stats](https://github-readme-stats.vercel.app/api?username=EphantusMwago&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EphantusMwago&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
+![Ephantus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephantus2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephantus2&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
 </div>
 
 ---
 ### 🌀 GitHub Streak
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=EphantusMwago&theme=tokyonight-duo&hide_border=true&border_radius=15" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ephantus2&theme=tokyonight-duo&hide_border=true&border_radius=15" alt="GitHub Streak" />
 </div>
 
 ### 🌐 Connect With Me
@@ -48,14 +48,11 @@ An intelligent web assistant for academic writing and research tasks.
   <a href="mailto:ephantusmwago6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
----
 
-### ✨ Fun Animation
 <div align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
 </div>
 
----
 
 ### 🧩 Quote of the Day
 > “Code. Learn. Build. Repeat.” — Ephantus Mwago
