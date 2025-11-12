@@ -31,15 +31,15 @@ An intelligent web assistant for academic writing and research tasks.
 
 ### 📊 GitHub Stats
 <div align="center">
-![Ephantus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephantus2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephantus2&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
-</div>
+![Ephantus' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ephantus2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ephantus2&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
+
 
 ---
 ### 🌀 GitHub Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ephantus2&theme=tokyonight-duo&hide_border=true&border_radius=15" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=Ephantus2&theme=tokyonight-duo&hide_border=true&border_radius=15)
+
 
 ### 🌐 Connect With Me
 <div align="center">
