@@ -26,6 +26,12 @@ Built with **React + Django + MySQL** — includes user authentication, cart, an
 💻 **[Portfolio Website](https://ephantus2.netlify.app/)**  
 Responsive personal portfolio to showcase my projects and contact info.
 
+🧠 [AI Waste Classification Assistant](https://green-cycle-hub-chi.vercel.app/)
+Upload waste images to get instant AI classification and connect with nearby recycling services for proper disposal.
+
+📦 [Import & Export Management System](https://import-export-sand.vercel.app/)
+Streamlines shipment tracking, inventory, and documentation for efficient international trade operations.
+
 🤖 **AI Academic Assistant** *(coming soon)*  
 An intelligent web assistant for academic writing and research tasks.
 
