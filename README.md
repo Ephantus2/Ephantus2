@@ -23,7 +23,7 @@
 🛍️ **[Full Stack E-Commerce Website](https://full-stack-ecommerce-website-green.vercel.app/)**  
 Built with **React + Django + MySQL** — includes user authentication, cart, and live deployment.
 
-💻 **[Portfolio Website](https://ephantus-portfolio-e178r8psc-ephantus-projects-dbbc8db8.vercel.app/)**  
+💻 **[Portfolio Website](https://ephantus-portfolio.vercel.app/)**  
 Responsive personal portfolio to showcase my projects and contact info.
 
 🧠 [AI Waste Classification Assistant](https://green-cycle-hub-chi.vercel.app/)
