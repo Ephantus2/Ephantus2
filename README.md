@@ -32,7 +32,7 @@ Upload waste images to get instant AI classification and connect with nearby rec
 📦 [Import & Export Management System](https://import-export-sand.vercel.app/)
 Streamlines shipment tracking, inventory, and documentation for efficient international trade operations.
 
-🤖 **AI Academic Assistant** *(coming soon)*  
+🤖 [AI Academic Assistant](https://tech-read.ephantusmwago6.workers.dev/)
 An intelligent web assistant for academic writing and research tasks.
 
 <div align="center">
