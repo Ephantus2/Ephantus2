@@ -78,6 +78,10 @@ An intelligent web assistant for academic writing and research tasks.
   <img src="https://komarev.com/ghpvc/?username=EphantusMwago&style=for-the-badge&color=blue" alt="Profile views"/>
 </div>
 
+## 📅 Contribution Calendar
+
+![Calendar](https://ghchart.rshah.org/Ephantus2)
+
 ## 📈 Contribution Graph
 
 [![Ephantus2's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ephantus2&theme=github-compact)](https://github.com/Ephantus2)
