@@ -35,6 +35,9 @@ Streamlines shipment tracking, inventory, and documentation for efficient intern
 🤖 [AI Academic Assistant](https://tech-read.ephantusmwago6.workers.dev/)
 An intelligent web assistant for academic writing and research tasks.
 
+🧠 [Gakurwe Girls High Shool Website](https://gakurwegirls.org/)
+School Website with 5 pages, gallery and a google map.
+
 <div align="center">
 
 ### 📊 GitHub Stats
