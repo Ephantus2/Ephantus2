@@ -32,8 +32,8 @@ Upload waste images to get instant AI classification and connect with nearby rec
 📦 [Import & Export Management System](https://import-export-sand.vercel.app/)
 Streamlines shipment tracking, inventory, and documentation for efficient international trade operations.
 
-🤖 [AI Academic Assistant](https://tech-read.ephantusmwago6.workers.dev/)
-An intelligent web assistant for academic writing and research tasks.
+🤖 [learning management sytem](https://ephantus-university-lms.ephantusmwago6.workers.dev/student/grades)
+A University Learning Management System, Django + Postgres + Redis + Docker + React
 
 🧠 [Gakurwe Girls High Shool Website](https://gakurwegirls.org/)
 School Website with 5 pages, gallery and a google map.
